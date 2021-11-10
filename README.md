@@ -15,8 +15,6 @@ About ME 💬 :
 
 ✨ Java
 
-✨ PhP
-
 ✨ C#
 
 - Hobbies :
