@@ -17,6 +17,10 @@ About ME 💬 :
 
 ✨ C#
 
+✨ Vue.js
+
+✨ React
+
 - Hobbies :
 
 ✨ Gaming
